@@ -1,19 +1,17 @@
 let input;
 const numbers = [];
 let total = 0;
-
 do {
-    input = Number(prompt('Enter number'));
-    numbers.push(input);
-    console.log(numbers);
-} while (input !== null && input !== 0) {
-    for (const sum of numbers) {
-        if (Number.isNaN(sum)) {
-            alert('Было введено не число, попробуйте еще раз');
-        } else {
-            total += sum;
-        };
+    input = prompt('Enter number');
+    const inputNumber = Number(input);
+    if (inputNumber === null && inputNumber === 0) {
+        break;
+    } else if (Number.isNaN(inputNumber)) {
+        alert('Было введено не число, попробуйте еще раз');
     }
-};
-
+    numbers.push(inputNumber);
+} while (input !== null && input !== 0);
+for (const sum of numbers) {
+    total += sum;
+}
 console.log(`Общая сумма чисел равна ${total}`);
