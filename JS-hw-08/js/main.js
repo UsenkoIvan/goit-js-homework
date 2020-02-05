@@ -41,7 +41,6 @@ function openModal(evt) {
     const {
         target
     } = evt;
-
     if (evt.target === evt.currentTarget) {
         return;
     }
@@ -86,4 +85,4 @@ refs.gallery.addEventListener('click', openModal);
 refs.lightboxButton.addEventListener('click', closeModal);
 refs.lightbox.addEventListener('click', clearModal);
 window.document.addEventListener('keydown', clearModalByEsc);
-window.document.addEventListener('keydown', viewPic);
+// window.document.addEventListener('keydown', viewPic);
