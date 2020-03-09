@@ -48,21 +48,21 @@ makeTransaction({
     })
     .then(logSuccess)
     .catch(logError);
-// makeTransaction({
-//         id: 71,
-//         amount: 230
-//     })
-//     .then(logSuccess)
-//     .catch(logError);
-// makeTransaction({
-//         id: 72,
-//         amount: 75
-//     })
-//     .then(logSuccess)
-//     .catch(logError);
-// makeTransaction({
-//         id: 73,
-//         amount: 100
-//     })
-//     .then(logSuccess)
-//     .catch(logError);
+makeTransaction({
+        id: 71,
+        amount: 230
+    })
+    .then(logSuccess)
+    .catch(logError);
+makeTransaction({
+        id: 72,
+        amount: 75
+    })
+    .then(logSuccess)
+    .catch(logError);
+makeTransaction({
+        id: 73,
+        amount: 100
+    })
+    .then(logSuccess)
+    .catch(logError);
