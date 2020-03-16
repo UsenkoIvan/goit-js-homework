@@ -1,0 +1,16 @@
+<h2 class="title_country">{{name}}</h2>
+<div class="container_box">
+    <div class="container_items">
+        <p class="country_capital"><span>Capital:</span> {{capital}}</p>
+        <p class="country_population"><span>Population:</span> {{population}}</p>
+        <p class="country_languages">Languages:</p>
+        <ul class="languages_list">
+            {{#each languages}}
+            <li class="languages_item">{{this.name}}</li>
+            {{/each}}
+        </ul>
+    </div>
+    <div class="container_img">
+        <img class="img" src="{{flag}}" alt="{{name}}">
+    </div>
+</div>
