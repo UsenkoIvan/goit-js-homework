@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/goit-js-homework/goit-react-hw-01-components/static/css/main.8f85a7ff.chunk.css",
-    "main.js": "/goit-js-homework/goit-react-hw-01-components/static/js/main.a14cb801.chunk.js",
-    "main.js.map": "/goit-js-homework/goit-react-hw-01-components/static/js/main.a14cb801.chunk.js.map",
-    "runtime-main.js": "/goit-js-homework/goit-react-hw-01-components/static/js/runtime-main.0070d55d.js",
-    "runtime-main.js.map": "/goit-js-homework/goit-react-hw-01-components/static/js/runtime-main.0070d55d.js.map",
-    "static/js/2.1873a8e8.chunk.js": "/goit-js-homework/goit-react-hw-01-components/static/js/2.1873a8e8.chunk.js",
-    "static/js/2.1873a8e8.chunk.js.map": "/goit-js-homework/goit-react-hw-01-components/static/js/2.1873a8e8.chunk.js.map",
-    "index.html": "/goit-js-homework/goit-react-hw-01-components/index.html",
-    "precache-manifest.fcbc0e5e8e1b9463c707a39e77a954c4.js": "/goit-js-homework/goit-react-hw-01-components/precache-manifest.fcbc0e5e8e1b9463c707a39e77a954c4.js",
-    "service-worker.js": "/goit-js-homework/goit-react-hw-01-components/service-worker.js",
-    "static/css/main.8f85a7ff.chunk.css.map": "/goit-js-homework/goit-react-hw-01-components/static/css/main.8f85a7ff.chunk.css.map",
-    "static/js/2.1873a8e8.chunk.js.LICENSE.txt": "/goit-js-homework/goit-react-hw-01-components/static/js/2.1873a8e8.chunk.js.LICENSE.txt"
+    "main.css": "/goit-js-homework/static/css/main.8f85a7ff.chunk.css",
+    "main.js": "/goit-js-homework/static/js/main.a14cb801.chunk.js",
+    "main.js.map": "/goit-js-homework/static/js/main.a14cb801.chunk.js.map",
+    "runtime-main.js": "/goit-js-homework/static/js/runtime-main.476fe1de.js",
+    "runtime-main.js.map": "/goit-js-homework/static/js/runtime-main.476fe1de.js.map",
+    "static/js/2.1873a8e8.chunk.js": "/goit-js-homework/static/js/2.1873a8e8.chunk.js",
+    "static/js/2.1873a8e8.chunk.js.map": "/goit-js-homework/static/js/2.1873a8e8.chunk.js.map",
+    "index.html": "/goit-js-homework/index.html",
+    "precache-manifest.47e109d7dd92a708f78acb43c3ed17e0.js": "/goit-js-homework/precache-manifest.47e109d7dd92a708f78acb43c3ed17e0.js",
+    "service-worker.js": "/goit-js-homework/service-worker.js",
+    "static/css/main.8f85a7ff.chunk.css.map": "/goit-js-homework/static/css/main.8f85a7ff.chunk.css.map",
+    "static/js/2.1873a8e8.chunk.js.LICENSE.txt": "/goit-js-homework/static/js/2.1873a8e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0070d55d.js",
+    "static/js/runtime-main.476fe1de.js",
     "static/js/2.1873a8e8.chunk.js",
     "static/css/main.8f85a7ff.chunk.css",
     "static/js/main.a14cb801.chunk.js"
