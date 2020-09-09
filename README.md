@@ -1,1 +1,1 @@
-GoIT JS Native
+GoIT vanila JS 
